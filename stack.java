@@ -7,6 +7,7 @@ public class stack {
     Scanner sc = new Scanner(System.in);
     stack()
     {
+	int j;
         top=-1;
         System.out.println("Enter N:");
         n=sc.nextInt();
